@@ -13,7 +13,7 @@
 
 ##  Research Interests
 * System Software
-* Virtualiation
+* Virtualization
 * Embedded System
 * System Security
 <br/><br/>
