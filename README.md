@@ -24,7 +24,7 @@
   **Unsung Lee**, Canik Park
 * Virtualizing Graphics Architecture of Android Mobile Platforms in KVM/ARM Environment. IEICE Trans. Inf. Syst. 100-D(7): 1403-1415 (2017) [Paper](https://www.jstage.jst.go.jp/article/transinf/E100.D/7/E100.D_2016EDP7435/_article/-char/en)
 
- Sejin Park, Byungsu Park, **Unsung Lee**, Chanik Park
+  Sejin Park, Byungsu Park, **Unsung Lee**, Chanik Park
 * 하드웨어 TPM을 이용한 센서 데이터 무결성 증명, 임미래, **이운성**, 박찬익, 한국컴퓨터종합학술대회 논문집 (2018)
 * 안드로이드 호스트 기반 KVM/ARM 가상화 환경에서의 GPU 디바이스 구동기법. 박병수, **이운성**, 박세진, 박찬익(포항공대), 김우성, 조혜진, 이규은(LG전자). 한국컴퓨터종합학술대회 (2014)
 <br/><br/>
