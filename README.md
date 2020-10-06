@@ -1,8 +1,8 @@
 # **RESUME**  
-* Name	:	Unsung Lee  
+* Name	  :	Unsung Lee  
 * E-mail	:	unsung0317@gmail.com  
-* Address:	Room 423, PIAI building, POSTECH, 77 Cheongam-ro, Hyogok-dong, Nam-gu, Pohang-si, Gyeongsangbuk-do  
-* Phone	:	+82)1077080320  
+* Address :	Room 423, PIAI building, POSTECH, 77 Cheongam-ro, Hyogok-dong, Nam-gu, Pohang-si, Gyeongsangbuk-do  
+* Phone	  :	+82)1077080320  
 <br/><br/>
 
 ##  Education
@@ -22,4 +22,8 @@
 * SofTEE: Software-Based Trusted Execution Environment for User Applications. IEEE Access 8: 121874-121888 (2020) [Paper](https://ieeexplore.ieee.org/document/9131703)
 * Virtualizing Graphics Architecture of Android Mobile Platforms in KVM/ARM Environment. IEICE Trans. Inf. Syst. 100-D(7): 1403-1415 (2017) [Paper](https://www.jstage.jst.go.jp/article/transinf/E100.D/7/E100.D_2016EDP7435/_article/-char/en)
 * [source](https://dblp.org/pid/205/7830.html)
+<br/><br/>
+
+##  Projects
+
 
