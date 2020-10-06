@@ -6,3 +6,6 @@
 * Phone	:	+82)1077080320  
 
 ##  Education
+
+* Ph.D in CSE(Advisor: [Prof. Chanik Park](https://sslab.postech.ac.kr/chanik-park.html))
+* Sep. 2012 ~ Feb. 2021
