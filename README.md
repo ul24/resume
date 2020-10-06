@@ -25,5 +25,7 @@
 <br/><br/>
 
 ##  Projects
+* 가상화 환경기반 다중 Guest OS에서 2D/3D Graphics 가상화 기술 개발: Development of 2D/3D Virtualization technology for multiple Guest OSes based on virtualized environment. (Aug. 2013 ~ July. 2014)
+* 초소형*고신뢰(99.999%) OS와 고성능 멀티코어 OS를 동시 실행하는 듀얼 운영체제 원천 기술 
 
 
