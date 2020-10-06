@@ -19,4 +19,7 @@
 <br/><br/>
 
 ##  Publications
+* SofTEE: Software-Based Trusted Execution Environment for User Applications. IEEE Access 8: 121874-121888 (2020)
+* Virtualizing Graphics Architecture of Android Mobile Platforms in KVM/ARM Environment. IEICE Trans. Inf. Syst. 100-D(7): 1403-1415 (2017)
+[source](https://dblp.org/pid/205/7830.html)
 
