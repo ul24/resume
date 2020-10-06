@@ -30,7 +30,7 @@
 <br/><br/>
 
 ##  Research Projects
-* 가상화 환경기반 다중 Guest OS에서 2D/3D Graphics 가상화 기술 개발: Development of 2D/3D Virtualization technology for multiple Guest OSes based on virtualized environment. (Aug. 2013 ~ July. 2014) 
+* 가상화 환경기반 다중 Guest OS에서 2D/3D Graphics 가상화 기술 개발: Development of 2D/3D Virtualization technology for multiple Guest OSes based on virtualized environment. (Aug. 2013 ~ July. 2014) [Demo](https://www.youtube.com/watch?v=az8tjlY_ik4)
 * 초소형*고신뢰(99.999%) OS와 고성능 멀티코어 OS를 동시 실행하는 듀얼 운영체제 원천 기술 (Mar. 2015 ~ Feb. 2017)
 * To develop CertiKOS for ARM platform first and to extend CertiKOS for GPU device (Apr. 2016 ~ Aug. 2017) (with Yale Flint Group)
 * 분산 자율 IoT 플랫폼을 위한 고성능/고신뢰 블록체인 기술 개발 (Apr. 2017 ~ Dec. 2018)
