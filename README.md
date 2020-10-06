@@ -23,6 +23,8 @@
 
   **Unsung Lee**, Canik Park
 * Virtualizing Graphics Architecture of Android Mobile Platforms in KVM/ARM Environment. IEICE Trans. Inf. Syst. 100-D(7): 1403-1415 (2017) [Paper](https://www.jstage.jst.go.jp/article/transinf/E100.D/7/E100.D_2016EDP7435/_article/-char/en)
+
+Sejin PARK, Byungsu PARK, **Unsung LEE**, Chanik PARK
 * [source](https://dblp.org/pid/205/7830.html)
 <br/><br/>
 
