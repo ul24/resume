@@ -7,5 +7,10 @@
 
 ##  Education
 
-* Ph.D in CSE(Advisor: [Prof. Chanik Park](https://sslab.postech.ac.kr/chanik-park.html))
-* Sep. 2012 ~ Feb. 2021
+* POSTECH, Pohang, Repulic of Korea
+** Ph.D in CSE (Advisor: [Prof. Chanik Park](https://sslab.postech.ac.kr/chanik-park.html))
+** Sep. 2012 ~ Feb. 2021
+
+* POSTECH, Pohang, Repulic of Korea
+** B.S. in CSE
+** Mar. 2008 ~ Aug. 2012
