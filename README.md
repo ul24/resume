@@ -1,4 +1,4 @@
-# RESUME  
+# **RESUME**  
 
 * Name	:	Unsung Lee  
 * E-mail	:	unsung0317@gmail.com  
@@ -7,10 +7,6 @@
 
 ##  Education
 
-* POSTECH, Pohang, Repulic of Korea
-** Ph.D in CSE (Advisor: [Prof. Chanik Park](https://sslab.postech.ac.kr/chanik-park.html))
-** Sep. 2012 ~ Feb. 2021
-
-* POSTECH, Pohang, Repulic of Korea
-** B.S. in CSE
-** Mar. 2008 ~ Aug. 2012
+* Ph.D in CSE, POSTECH (Sep. 2012 ~ Feb. 2021)
+(Advisor: [Prof. Chanik Park](https://sslab.postech.ac.kr/chanik-park.html)) 
+* B.S. in CSE, POSTECH (Mar. 2008 ~ Aug. 2012)
