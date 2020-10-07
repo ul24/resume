@@ -39,7 +39,7 @@
 ##  Programming Skills
 * Languages: C/C++, Python, Bash
 * Hardware Platforms: ARM machines (ARMv6 & ARMv7 & ARMv8, ARM FastModels)
-* Speciality: Linux kernel, Android Hardware Abstraction Layer (HAL), KVM/ARM
+* Speciality: Linux kernel, Android Hardware Abstraction Layer (HAL), KVM/ARM, Trusted Platform Module (TPM)
 
 ## Teaching Experience 
 * Teaching Assistant: 
