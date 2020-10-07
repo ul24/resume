@@ -3,7 +3,7 @@
 * E-mail	  :	unsung0317@gmail.com  
 * Address  :	Room 423, PIAI building, POSTECH, 77 Cheongam-ro, Hyogok-dong, Nam-gu, Pohang-si, Gyeongsangbuk-do  
 * Phone	   :	+82)1077080320  
-* Homepage : [HOME](ul24.github.io)
+* Homepage : ul24.github.io
 <br/><br/>
 
 ##  Education
@@ -42,9 +42,11 @@
 * Speciality: Linux kernel, Android Hardware Abstraction Layer (HAL), KVM/ARM
 
 ## Teaching Experience 
-* Teaching Assistant: Operating Systems (CSED312), Fall 2013
+* Teaching Assistant: 
 
-                      Digital System Design (CSED273), Spring 2014
+Operating Systems (CSED312), Fall 2013
+
+Digital System Design (CSED273), Spring 2014
 
 
 
