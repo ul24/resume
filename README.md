@@ -41,7 +41,9 @@
 * Hardware Platforms: ARM machines (ARMv6 & ARMv7 & ARMv8, ARM FastModels)
 * Speciality: Linux kernel, Android Hardware Abstraction Layer (HAL), KVM/ARM
 
-## Teaching Experience
+## Teaching Experience 
+* Teaching Assistant: Operating Systems (CSED312), Fall 2013
+                      Digital System Design (CSED273), Spring 2014
 
 
 
