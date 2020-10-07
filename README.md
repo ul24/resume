@@ -1,8 +1,9 @@
 # **RESUME**  
-* Name	   :	Unsung Lee  
-* E-mail	 :	unsung0317@gmail.com  
-* Address :	Room 423, PIAI building, POSTECH, 77 Cheongam-ro, Hyogok-dong, Nam-gu, Pohang-si, Gyeongsangbuk-do  
-* Phone	  :	+82)1077080320  
+* Name	    :	Unsung Lee  
+* E-mail	  :	unsung0317@gmail.com  
+* Address  :	Room 423, PIAI building, POSTECH, 77 Cheongam-ro, Hyogok-dong, Nam-gu, Pohang-si, Gyeongsangbuk-do  
+* Phone	   :	+82)1077080320  
+* Homepage : [ul24.github.com](ul24.github.com)
 <br/><br/>
 
 ##  Education
@@ -34,5 +35,13 @@
 * 초소형*고신뢰(99.999%) OS와 고성능 멀티코어 OS를 동시 실행하는 듀얼 운영체제 원천 기술 (Mar. 2015 ~ Feb. 2017)
 * To develop CertiKOS for ARM platform first and to extend CertiKOS for GPU device (Apr. 2016 ~ Aug. 2017) (with Yale Flint Group)
 * 분산 자율 IoT 플랫폼을 위한 고성능/고신뢰 블록체인 기술 개발 (Apr. 2017 ~ Dec. 2018)
+
+##  Programming Skills
+* Languages: C/C++, Python, Bash
+* Hardware Platforms: ARM machines (ARMv6 & ARMv7 & ARMv8, ARM FastModels)
+* Speciality: Linux kernel, Android Hardware Abstraction Layer (HAL), KVM/ARM
+
+## Teaching Experience
+
 
 
