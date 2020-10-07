@@ -3,7 +3,7 @@
 * E-mail	  :	unsung0317@gmail.com  
 * Address  :	Room 423, PIAI building, POSTECH, 77 Cheongam-ro, Hyogok-dong, Nam-gu, Pohang-si, Gyeongsangbuk-do  
 * Phone	   :	+82)1077080320  
-* Resume (PDF) : [DOWNLOAD]()
+* Resume (PDF) : [DOWNLOAD](https://github.com/ul24/ul24.github.io/raw/main/Resume.pdf)
 <br/><br/>
 
 ##  Education
